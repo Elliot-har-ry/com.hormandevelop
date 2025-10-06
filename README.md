@@ -2,3 +2,11 @@
 ## Initialisation du dépôt
 
 Nouvelle ligne ajoutée
+
+## Rédiger un commit
+
+```
+Titre du commit
+
+Description du commit avec les infos sur l'évolution du projet
+```
